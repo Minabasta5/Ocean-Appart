@@ -1,1 +1,1 @@
-# Ocean-Appartments
+# Ocean-App
